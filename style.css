@@ -474,6 +474,11 @@ box-sizing: border-box;
   align-items: center;
 }
 
+.footer a {
+  text-decoration: none;
+ color: var(--white);
+}
+
 .credits, .rs-description {
   font-family: var(--ff-text);
   font-weight: var(--fw-normal);
